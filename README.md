@@ -1,7 +1,5 @@
 # Library-Management-System-
 
-# Library Management System
-
 This is a **Library Management System** built in Python using **Object-Oriented Programming (OOP)** principles. The system allows you to manage books and library members, enabling functionalities like adding books, borrowing books, returning books, and viewing book details.
 
 ---
