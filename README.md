@@ -28,16 +28,14 @@ To get started with the project, follow these instructions:
 
 1. Clone the repository to your local machine:
 
-    git clone https://github.com/rohan7056/library-management-system.git
+    https://github.com/rohan7056/library-management-system.git
   
 
 2. Navigate to the project directory:
-
-    cd library-management-system
+     library-management-system
 
 3. Open the project in your favorite Python IDE (e.g., PyCharm).
 
 4. Run the `main.py` file to start the Library Management System.
 
-    python main.py
    
